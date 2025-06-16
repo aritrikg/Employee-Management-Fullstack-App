@@ -41,8 +41,7 @@
 
 ## Overview
 
-The Employee Management System is a dynamic full-stack application that seamlessly combines cutting-edge and traditional technologies. By integrating a modern **React** frontend with a classic **Spring Boot** backend, this project demonstrates how new and established technologies can harmoniously work together to create a robust and efficient application for managing employee and department data!
-
+The Employee Management System is a dynamic full-stack application that integrates cutting-edge and classic technology. This project shows how new and old technologies may work together to produce a strong and efficient application for managing employee and department data by combining a modern React frontend with a vintage Spring Boot backend!
 
 **Additional Note:** It may take some time to fetch the data and process your requests, as Render's free tier has minimal resources (only 512MB RAM and 0.1 CPU).
 
